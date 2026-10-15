@@ -82,7 +82,7 @@ An interactive riddle website designed to make solving riddles fun and engaging.
 
 ### 💻 Personal Portfolio | AI/ML Class
 
-My personal portfolio website created as part of my AI/ML class, showcasing my work and projects.
+My portfolio website created as part of my AI/ML class.
 
 **[View My Portfolio →](https://shrey7308.github.io/shrey-/)**
 
