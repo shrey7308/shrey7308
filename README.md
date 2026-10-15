@@ -49,6 +49,7 @@ Hey! I'm Shrey, a student at Drexel University interested in AI, machine learnin
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
@@ -72,13 +73,23 @@ A food allergy website that helps users explore fast-food restaurant menus and f
 
 An interactive riddle website designed to make solving riddles fun and engaging.
 
-Explore the website and challenge yourself with riddles.
-
 **[Try Riddle Me This →](https://riddlemethis-beta.vercel.app/)**
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 💻 Personal Portfolio | AI/ML Class
+
+My personal portfolio website created as part of my AI/ML class, showcasing my work and projects.
+
+**[View My Portfolio →](https://shrey7308.github.io/shrey-/)**
+
+</td>
+</tr>
 </table>
+
 
 ---
 
