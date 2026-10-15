@@ -1,0 +1,59 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080D1C"/>
+      <stop offset="55%" stop-color="#111B3A"/>
+      <stop offset="100%" stop-color="#30165C"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8B9BCB" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <g fill="none" stroke="url(#glow)" stroke-width="1.5" opacity=".6">
+    <path d="M790 60L875 105L960 55L1050 110L1140 65"/>
+    <path d="M790 60L805 160L900 205L960 55"/>
+    <path d="M875 105L900 205L1030 230L1050 110L1140 190"/>
+    <path d="M805 160L730 225L900 205"/>
+    <path d="M1050 110L1100 265"/>
+  </g>
+
+  <g fill="#A78BFA">
+    <circle cx="790" cy="60" r="5"/>
+    <circle cx="875" cy="105" r="5"/>
+    <circle cx="960" cy="55" r="6"/>
+    <circle cx="1050" cy="110" r="5"/>
+    <circle cx="1140" cy="65" r="5"/>
+    <circle cx="805" cy="160" r="4"/>
+    <circle cx="900" cy="205" r="6"/>
+    <circle cx="1030" cy="230" r="5"/>
+    <circle cx="1140" cy="190" r="4"/>
+    <circle cx="730" cy="225" r="4"/>
+    <circle cx="1100" cy="265" r="4"/>
+  </g>
+
+  <circle cx="1030" cy="125" r="120" fill="#7C3AED" opacity=".08"/>
+  <circle cx="1030" cy="125" r="80" fill="#3B82F6" opacity=".08"/>
+
+  <rect x="66" y="64" width="5" height="172" rx="2.5" fill="url(#glow)"/>
+
+  <text x="96" y="130" font-family="Arial, Helvetica, sans-serif"
+        font-size="54" font-weight="700" fill="#FFFFFF"
+        letter-spacing="2">SHREY</text>
+
+  <text x="98" y="171" font-family="Arial, Helvetica, sans-serif"
+        font-size="21" fill="#C4B5FD">AI &amp; MACHINE LEARNING</text>
+
+  <text x="98" y="204" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" fill="#A8B4D0">Drexel University  •  Developer  •  Builder</text>
+
+  <rect x="98" y="226" width="215" height="3" rx="1.5" fill="url(#glow)"/>
+</svg>
